@@ -1,4 +1,3 @@
 # kpi-labs-OOP
-Practicing object-oriented programming\n
-Student: Masalov Dmytro Anatoliyovych\n
-Group: TR-14
+Practicing object-oriented programming
+Student: TR-14 Masalov Dmytro Anatoliyovych
